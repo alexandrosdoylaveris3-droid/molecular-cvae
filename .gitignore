@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Generated model artifacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
